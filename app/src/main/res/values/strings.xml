@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Львівська Ґвара</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button_details">ДОДАТИ</string>
+    <string name="button_delete">ВИДАЛИТИ</string>
+    <string name="interpretation">Тлумачення вибраного слова:</string>
+    <string name="dointerpretation"/>
+</resources>
